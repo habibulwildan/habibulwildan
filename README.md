@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <body>
   <div>
-    <h1 style=color:red;>pertama</h1>
+    <h1>pertama</h1>
     <p>klik website kami=<a href="https://b05dpw.hbibul123.repl.co">https://b05dpw.hbibul123.repl.co</a></p>
   </div>
 </body>
