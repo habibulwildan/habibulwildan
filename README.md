@@ -10,7 +10,7 @@
   </p>
 
   <p>
-    <a href="website-profile-opal.vercel.app">
+    <a [href="https://habibulwildan.github.io/website_profile/">
       <img src="https://img.shields.io/badge/🌐_Visit_My_Featured_Project_Portfolio-ff5722?style=for-the-badge&logo=github&logoColor=white" />
     </a>
   </p>
@@ -65,7 +65,7 @@
   <a href="https://github.com/habibulwildan">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://habibulwildan.github.io/TA-DPW/">
+  <a href="//habibulwildan.github.io/website_profile/">
     <img src="https://img.shields.io/badge/Portfolio_Project-2ea44f?style=for-the-badge&logo=icloud&logoColor=white" />
   </a>
 </div>
