@@ -10,7 +10,7 @@
   </p>
 
   <p>
-    <a [href="https://habibulwildan.github.io/website_profile/">
+    <a href="https://habibulwildan.github.io/website_profile/">
       <img src="https://img.shields.io/badge/🌐_Visit_My_Featured_Project_Portfolio-ff5722?style=for-the-badge&logo=github&logoColor=white" />
     </a>
   </p>
